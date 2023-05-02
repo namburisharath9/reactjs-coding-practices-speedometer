@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #07080c;
+}
+.main-heading {
+  color: #ffffff;
+}
+.heading {
+  color: #ffffff;
+}
+.description {
+  color: #cbd5e1;
+}
+.button-accelerate {
+  color: #ffffff;
+  border-width: 0;
+  background-color: #0b69ff;
+  border-radius: 5px;
+}
+.button-brake {
+  color: #94a3b8;
+  border-color: #94a3b8;
+  background-color: #07080c;
+  border-radius: 5px;
+}
